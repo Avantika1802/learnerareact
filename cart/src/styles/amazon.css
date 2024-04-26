@@ -1,0 +1,10 @@
+.warning{
+    height: 40px;
+    width: 250px;
+    position: absolute;
+    right: 0;
+    top: 10%;
+    background-color: red;
+    color: white;
+    padding: 3px;
+}
